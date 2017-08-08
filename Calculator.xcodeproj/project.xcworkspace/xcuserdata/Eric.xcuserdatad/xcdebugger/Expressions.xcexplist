@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "Calculator.CalculatorBrain.performOperation (Calculator.CalculatorBrain)(Swift.String) -&gt; Swift.Optional&lt;Swift.Double&gt;:CalcuatorBrain.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "opStack">
+            </PersistentString>
+            <PersistentString
+               value = "knownOps">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Calculator.CalculatorBrain.evaluate (Calculator.CalculatorBrain)() -&gt; Swift.Optional&lt;Swift.Double&gt;:CalcuatorBrain.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "remainder">
+            </PersistentString>
+            <PersistentString
+               value = "opStack[0]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "protocol witness for Swift.Printable.description.getter : Swift.String in conformance Calculator.CalculatorBrain.(Op in _3685E67F2A56403491253A6A84A7A638) : Swift.Printable in Calculator:CalcuatorBrain.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "result">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
